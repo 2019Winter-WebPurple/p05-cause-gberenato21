@@ -1,0 +1,95 @@
+/*
+* Grace Berenato
+* 13 May 2019
+* Polar Bear Project
+*/
+
+
+/* The universal selector */
+
+* { margin: 0;
+    padding: 0;
+}
+
+header {border-bottom: 5px black solid;
+        background-color: #cce5ff;
+        margin: 10px;
+        padding: 10px;}
+
+main {background-color: #e6f2ff;
+        margin: 10px;
+        padding: 10px;}
+
+footer {background-color: #cce5ff;
+        margin: 10px;
+        padding: 10px;}
+
+
+/* Body attributes here */
+
+body {font-family: avenir, candara, sans-serif;}
+
+h3 {padding: 10px;
+    margin: 10px;}
+
+p {padding: 10px;
+    margin: 10px;}
+
+figure {float:left;}
+
+#HealthyPolarBear { width: 200px; height: 175px; 
+                padding: 10px;
+                margin: 10px;
+                border-top: 2px dashed black;
+                border-right: 2px dashed black;
+                border-bottom: 2px dashed black;
+                border-left: 2px dashed black;}
+
+#PolarBearOne { width: 225px; height: 175px; 
+                padding: 5px;
+                margin: 5px;
+                border-top: 2px solid gray;
+                border-right: 2px solid gray;
+                border-bottom: 2px solid gray;  
+                border-left: 2px solid gray;}
+
+#PolarBearTwo { width: 250px; height: 175px; 
+                padding: 5px;
+                margin: 5px;
+                border-top: 2px solid gray;
+                border-right: 2px solid gray;
+                border-bottom: 2px solid gray;
+                border-left: 2px solid gray;}
+
+#PolarBearThree { width: 250px; height: 175px; 
+                padding: 5px;
+                margin: 5px;
+                border-top: 2px solid gray;
+                border-right: 2px solid gray;
+                border-bottom: 2px solid gray;
+                border-left: 2px solid gray;}
+
+#PolarBearFour { width: 250px; height: 175px; 
+                padding: 5px;
+                margin: 5px;
+                border-top: 2px solid gray;
+                border-right: 2px solid gray;
+                border-bottom: 2px solid gray;
+                border-left: 2px solid gray;}
+
+#PolarBearFive { width: 250px; height: 175px; 
+                padding: 5px;
+                margin: 5px;
+                border-top: 2px solid gray;
+                border-right: 2px solid gray;
+                border-bottom: 2px solid gray;
+                border-left: 2px solid gray;}
+
+#nofloat { clear:both; }
+
+#nofloatagain { clear:both; }
+
+
+ul, li { 
+        list-style-position: inside;
+}
